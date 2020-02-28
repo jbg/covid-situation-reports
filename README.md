@@ -2,9 +2,9 @@
 
 This Rust program fetches the latest COVID-19 situation report
 from the WHO website, extracts the URL of the newest situation
-report from the HTML, downloads the PDF and attempts to parse
-JSON data from it. The JSON output includes all country values
-as well as regional values for China.
+report from the HTML, downloads the PDF, attempts to extract
+the data from it and outputs the data as JSON including all
+country values as well as regional values for China.
 
 This is a quick and dirty hack and the results should be
 checked for accuracy.
