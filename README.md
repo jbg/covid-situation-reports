@@ -9,8 +9,9 @@ as well as regional values for China.
 This is a quick and dirty hack and the results should be
 checked for accuracy.
 
-As of Feb 27's report, this is the output
-([download it](https://raw.githubusercontent.com/jbg/covid-situation-reports/master/data/2020-02-27.json)):
+The output from Feb 27's report is below
+([download it](https://raw.githubusercontent.com/jbg/covid-situation-reports/master/data/2020-02-27.json)).
+The population values for China regions are in 10,000s.
 
 ```json
 [
